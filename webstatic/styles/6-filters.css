@@ -47,7 +47,7 @@ h4 {
     width: auto;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    padding: 20px 0px 20px 40px;
+    padding: 10px 10px 20px 40px;
     display: none;
 }
 .locations:hover .popover {
