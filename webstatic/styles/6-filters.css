@@ -52,9 +52,13 @@ h4 {
 }
 .locations:hover .popover {
     display: block;
+    position: relative;
+    z-index: 1;
 }
 .amenities:hover .popover {
     display: block;
+    position: relative;
+    z-index: 1;
 }
 
 .popover h2 {
